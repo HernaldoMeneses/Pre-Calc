@@ -1,0 +1,18 @@
+Números
+    Inteiros
+        ...,-3,-2,-1,0,1,2,3,...;
+        
+        seja: m,n inteiros
+            m + n => inteiro
+            m - n => inteiro
+            m * n => inteiro
+            m / n => inteiro ou racional (n != 0)
+
+            + Soma
+            - Operação inversa da Soma
+            * Multiplicação
+            / Operação inversa da Multiplicação
+
+            logo: m*n/n = m 
+                porém, se n = 0
+                    temos: m*0/0 = m (0/0 => indefinição)
